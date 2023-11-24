@@ -6,5 +6,4 @@ To use this script clone the repo, install the necessary packages, and make sure
 
 # Data
 Make Sure to Include the required files,
-  - Emails list
-Replace the email template data
+  - Emails list (replace the email template data)
